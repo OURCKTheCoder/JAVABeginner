@@ -1,3 +1,3 @@
 # JAVABeginner
-Learning Java withou a book seems so hard!
+Learning Java without a book seems so hard!
 (Test Github)
